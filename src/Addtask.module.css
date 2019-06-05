@@ -1,0 +1,14 @@
+.addTask {
+    font-size: 17px;
+    padding-top: 20px;
+    text-decoration: none;
+    padding-left:35px;
+    color: red;
+}
+.addTask:hover{
+    color:#DB4C3F;
+    text-decoration: underline;
+}
+.task {
+    padding-top: 32px;
+}

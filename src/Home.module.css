@@ -1,0 +1,14 @@
+.checkBox{
+    font-size: 17px;
+    margin-right: 17px;
+}
+li {
+    list-style-type: none;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 42px;
+    padding-bottom: 8px;
+    width: 74.5%;
+}
+span {
+    margin-left: 650px;
+}

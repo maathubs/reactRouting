@@ -1,0 +1,39 @@
+.checkBox{
+    font-size: 17px;
+    margin-right: 17px;
+}
+li {
+    list-style-type: none;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 42px;
+    padding-bottom: 8px;
+    width: 74.5%;
+}
+span {
+    margin-left: 715px;
+}
+.logo {
+    padding-top: 38px;
+    width: 28%;
+}
+.subPara1 {
+    text-align: center;
+    font-size: 17px;
+    padding-top: 10px;
+}
+.subPara2 {
+    text-align: center;
+    font-size: 15px;
+    color: gray;
+    padding-top: 10px;
+}
+.home{
+    text-align: center
+}
+button.Addbutton {
+    width: 16%;
+    height: 50px;
+    font-size: 19px;
+    color: white;
+    background-color: #DB4C3F;
+}
